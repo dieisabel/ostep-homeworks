@@ -1,0 +1,6 @@
+*.out
+*.o
+*.elf
+*.exe
+bin/
+obj/
